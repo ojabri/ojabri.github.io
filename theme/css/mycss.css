@@ -1,0 +1,18 @@
+.resume-body{
+	padding-left:1rem;
+	padding-right:1rem;
+}
+
+.resume-timeline-item:before {
+ border:0px solid #2bcb7c;
+ background:none;
+}
+.resume-timeline-item-header-icon{
+display: inline-block;
+position: absolute;
+left: -34px;
+background: white;
+color:#2bcb7c;
+top:2px;
+font-size:1.1rem;
+}
